@@ -8,7 +8,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-9.21.0-yellowgreen)
 ![TypeScript](https://img.shields.io/badge/TailwindCSS-5.7.2-red)
 
-OctalTask is a website to help user manage their work conveniently and intuitively.
+A web-based task management platform that enables users to efficiently organize, prioritize, and track their work through an intuitive interface
 
 # Features
 
